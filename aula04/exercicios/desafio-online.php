@@ -27,4 +27,8 @@ class Professor extends Pessoa {
 	
 }
 
+class Secretaria extends Pessoa {
+	
+}
+
 ?>
