@@ -23,4 +23,8 @@ class Aluno extends Pessoa {
 	
 }
 
+class Professor extends Pessoa {
+	
+}
+
 ?>
