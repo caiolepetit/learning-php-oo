@@ -19,4 +19,8 @@ abstract class Pessoa {
 	public $idade;
 }
 
+class Aluno extends Pessoa {
+	
+}
+
 ?>
